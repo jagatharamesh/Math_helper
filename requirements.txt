@@ -1,0 +1,4 @@
+pip install streamlit transformers torch pandas numpy regex scikit-learn matplotlib seaborn datasets safetensors
+pip install python-dotenv langchain langchain-groq
+
+python 3.10
