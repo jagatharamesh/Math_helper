@@ -12,7 +12,7 @@ This project is a prototype Math Helper tool that classifies math questions into
   File used: `/kaggle/input/aimo-external-dataset/external_df.csv`
 - Task: Classify user-submitted math questions into categories (e.g., Geometry, Algebra, etc.)
 - Confidence score: Displayed alongside predicted category
-- Fine-tuned model directory: `MATH_HELPER/saved_math_model_v1`
+- Fine-tuned model link: `https://drive.google.com/drive/folders/1YNDlhmk-Sr2RavT51QfmA40LC_COZpck?usp=drive_link`
 
 ### 2. Step-by-Step Solution Generation
 - Model: **LLaMA 3.3 70B - Versatile**, accessed via **GroqCloud**
